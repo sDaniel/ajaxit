@@ -6,7 +6,7 @@ document.getElementsByTagName("html")[0].style.marginTop = "-999999px";
         excludeURL: new Array(),
         readyList: null,
         isInit: false,
-        onSuccess: null,
+        onSuccess: null,
         onError: null,
         onStart:null,
         win:(window.document || window),
